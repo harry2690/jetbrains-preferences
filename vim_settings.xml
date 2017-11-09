@@ -61,11 +61,11 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1510197031858">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1510211768490">
+        <mark key="[" line="161" column="30" />
+        <mark key="]" line="161" column="53" />
+        <mark key="^" line="161" column="53" />
+        <mark key="." line="161" column="53" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_choose_video.php" timestamp="1507799256617">
         <mark key="[" line="3" column="29" />
@@ -78,12 +78,12 @@
         <mark key="]" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1510209452723">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1510211735988">
         <mark key="'" line="84" column="4" />
-        <mark key="[" line="161" column="30" />
-        <mark key="]" line="161" column="30" />
-        <mark key="." line="161" column="30" />
-        <mark key="^" line="56" column="23" />
+        <mark key="[" line="325" column="50" />
+        <mark key="]" line="323" column="70" />
+        <mark key="." line="323" column="70" />
+        <mark key="^" line="323" column="70" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratResult.php" timestamp="1507799278443">
         <mark key="[" line="1" column="30" />
@@ -656,7 +656,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Wallet</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -665,7 +665,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>Wallet</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -688,7 +688,7 @@
         <text>picture</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ2dhbWVzJykKICAgICAgICAgICAgLT5pbnNlcnQoWwogICAgICAgICAgICAgICAgJ2lkJyAgICAgICAgID0+IDQsCiAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgPT4gJ+aXoOWQjemqsOWunScsCiAgICAgICAgICAgICAgICAnY21faWQnICAgICAgPT4gNCwKICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiBDYXJib246Om5vdygpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+IENhcmJvbjo6bm93KCksCiAgICAgICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">ICAgICAqIEByZXR1cm4gZmxvYXQKICAgICAgICAgICAgICAgICAgICA=</text>
