@@ -47,11 +47,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/AgentBonusEloquent.php" timestamp="1510204143604">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="185" column="0" />
-        <mark key="^" line="185" column="35" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/AgentBonusEloquent.php" timestamp="1510205352014">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="/H2 Fragment (bacc_betlog_list.php:2328).sql" timestamp="1509431145585">
         <mark key="[" line="0" column="0" />
@@ -117,11 +117,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/TransactionRepoContract.php" timestamp="1509605303653">
         <mark key="[" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/TransactionEloquent.php" timestamp="1510204207522">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="48" column="20" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/TransactionEloquent.php" timestamp="1510205271165">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="17" />
+        <mark key="^" line="47" column="17" />
+        <mark key="." line="47" column="17" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratBigRoad.php" timestamp="1507799271128">
         <mark key="[" line="1" column="29" />
@@ -665,7 +665,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Game</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -674,7 +674,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>Game</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
