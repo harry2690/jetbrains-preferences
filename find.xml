@@ -1,0 +1,24 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '.../app/Model/Eloquent - [RacingCar]'" />
+    <option name="defaultScopeName" value="Directory '.../app/Model/Eloquent - [RacingCar]'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '.../app/Model/Eloquent - [RacingCar]'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>hp</mask>
+      <mask>php</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>
