@@ -18,6 +18,7 @@
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="CopyElement" />
   <action id="DatabaseView.AddAction">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -64,6 +65,7 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="Move" />
   <action id="ParameterInfo" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
