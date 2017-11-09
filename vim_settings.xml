@@ -78,11 +78,12 @@
         <mark key="]" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1510207791635">
-        <mark key="[" line="161" column="38" />
-        <mark key="]" line="161" column="38" />
-        <mark key="." line="161" column="38" />
-        <mark key="^" line="153" column="36" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1510209452723">
+        <mark key="'" line="84" column="4" />
+        <mark key="[" line="161" column="30" />
+        <mark key="]" line="161" column="30" />
+        <mark key="." line="161" column="30" />
+        <mark key="^" line="56" column="23" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratResult.php" timestamp="1507799278443">
         <mark key="[" line="1" column="30" />
@@ -532,8 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="4" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAssetAdapter.php" />
-      <jump line="46" column="4" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAssetAdapter.php" />
       <jump line="51" column="4" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAssetAdapter.php" />
       <jump line="63" column="4" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAssetAdapter.php" />
       <jump line="76" column="4" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAssetAdapter.php" />
@@ -632,6 +631,8 @@
       <jump line="12" column="4" filename="$USER_HOME$/wuming/ffmpeg-for-live/docker-compose.yml" />
       <jump line="20" column="4" filename="$USER_HOME$/wuming/ffmpeg-for-live/docker-compose.yml" />
       <jump line="12950" column="8" filename="$USER_HOME$/wuming/WeChatCasino/_ide_helper.php" />
+      <jump line="55" column="3" filename="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" />
+      <jump line="84" column="4" filename="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -655,7 +656,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>: float</text>
+        <text>Wallet</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -664,7 +665,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>: float</text>
+        <text>Wallet</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -689,8 +690,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ2dhbWVzJykKICAgICAgICAgICAgLT5pbnNlcnQoWwogICAgICAgICAgICAgICAgJ2lkJyAgICAgICAgID0+IDQsCiAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgPT4gJ+aXoOWQjemqsOWunScsCiAgICAgICAgICAgICAgICAnY21faWQnICAgICAgPT4gNCwKICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiBDYXJib246Om5vdygpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+IENhcmJvbjo6bm93KCksCiAgICAgICAgICAgIF0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gZmxvYXQKICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -709,17 +710,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNyZWF0ZWRfYXQ7Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>string
 string</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJZCgpOnN0cmluZwogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -729,14 +730,14 @@ string</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJZCgpOnN0cmluZwogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJZCgpOiBzdHJpbmc7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
