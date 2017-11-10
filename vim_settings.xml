@@ -67,6 +67,7 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_choose_video.php" timestamp="1507799256617">
         <mark key="[" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/MessageRepo.php" timestamp="1510293247278" />
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tg_to_money_post.php" timestamp="1507861493425">
         <mark key="[" line="2" column="8" />
       </file>
@@ -74,13 +75,6 @@
         <mark key="[" line="38" column="37" />
         <mark key="]" line="38" column="37" />
         <mark key="." line="38" column="37" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1510213408316">
-        <mark key="'" line="84" column="4" />
-        <mark key="[" line="364" column="5" />
-        <mark key="]" line="367" column="15" />
-        <mark key="." line="367" column="15" />
-        <mark key="^" line="367" column="15" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratResult.php" timestamp="1507799278443">
         <mark key="[" line="1" column="30" />
@@ -91,6 +85,7 @@
         <mark key="^" line="60" column="32" />
         <mark key="." line="60" column="32" />
       </file>
+      <file name="/BaccaratMessageService.php" timestamp="1510292461116" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/PlatformConfigRepo.php" timestamp="1510198353369">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -167,7 +162,6 @@
       <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/robot_content_list.php" timestamp="1507278151064">
         <mark key="[" line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/composer.lock" timestamp="1510285930744" />
       <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/storefront/news.php" timestamp="1497950010882">
         <mark key="[" line="19" column="59" />
       </file>
@@ -177,6 +171,7 @@
       <file name="/a.sql" timestamp="1509431261273">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/User.php" timestamp="1510293516669" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/AgentRepoContract.php" timestamp="1509613560939">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -209,6 +204,7 @@
         <mark key="]" line="76" column="20" />
         <mark key="." line="76" column="20" />
       </file>
+      <file name="/AgentBonusRepo.php" timestamp="1510291601985" />
       <file name="$USER_HOME$/web-service/tests/_support/Response/ProjectApi/LoadProjectResponse.php" timestamp="1494409819392">
         <mark key="[" line="154" column="48" />
       </file>
@@ -227,6 +223,7 @@
       <file name="/fragment.php" timestamp="1495182055275">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/BaccResultEloquent.php" timestamp="1510293340659" />
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/bacc/chat.php" timestamp="1507869382193">
         <mark key="[" line="3" column="30" />
       </file>
@@ -289,6 +286,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/PromotionLogRepoContract.php" timestamp="1510293728408" />
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/jryk.php" timestamp="1507868693229">
         <mark key="[" line="1" column="15" />
       </file>
@@ -301,6 +299,7 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/config/app.php" timestamp="1510292659151" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1509688916077">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -336,6 +335,9 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/PromotionLogRepoContract.php" timestamp="1510293742733">
+        <mark key="[" line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/AgentBonusRepo.php" timestamp="1510035933671">
         <mark key="[" line="30" column="54" />
         <mark key="]" line="9" column="0" />
@@ -363,10 +365,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWater.php" timestamp="1509505360496">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/LiveGame/BaccaratMessageService.php" timestamp="1509508391001">
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="37" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/LiveGame/BaccaratMessageService.php" timestamp="1510293285715">
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+        <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/ide-helper.php" timestamp="1509940106720">
         <mark key="[" line="25" column="24" />
@@ -397,9 +400,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/Game.php" timestamp="1509952179149">
         <mark key="[" line="2" column="13" />
       </file>
+      <file name="/MessageRepoContract.php" timestamp="1510293699821" />
       <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/course-fire.php" timestamp="1506433661585">
         <mark key="[" line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/MessageRepo.php" timestamp="1510292675308" />
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/jc_ajax_close.php" timestamp="1507799714428">
         <mark key="[" line="3" column="8" />
       </file>
@@ -485,6 +490,7 @@
         <mark key="]" line="29" column="41" />
         <mark key="." line="29" column="41" />
       </file>
+      <file name="/app.php" timestamp="1510291757394" />
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/chat.php" timestamp="1507869277688">
         <mark key="[" line="65" column="49" />
       </file>
@@ -650,7 +656,15 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\P</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -684,8 +698,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\
+App\Facades\P</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -701,19 +723,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkYWdlbnQtPmdldElkKCkgLiAnICc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkYWdlbnQtPmdldElkKCkgLiAnICc7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gZmxvYXQKICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gZmxvYXQKICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -727,11 +749,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNyZWF0ZWRfYXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>string
-string</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNyZWF0ZWRfYXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
