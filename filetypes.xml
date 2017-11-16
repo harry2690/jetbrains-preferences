@@ -7,6 +7,7 @@
       <mapping pattern="backend_notification_store" type="PLAIN_TEXT" />
       <mapping pattern="last_time_backend_notification_execute" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="vue" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
