@@ -3,392 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/content-page.php" timestamp="1497958334800">
-        <mark key="[" line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/RepoServiceProvider.php" timestamp="1510121583205">
-        <mark key="[" line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_07_135321_add_transaction_id_to_agent_bonus_table.php" timestamp="1510034239086">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="45" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/TestRepository.php" timestamp="1509613419334">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1509954113619">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/H2 Fragment (bacc_betlog_list.php:2328).sql" timestamp="1509431145585">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/HomeController.php" timestamp="1510285037090">
-        <mark key="[" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/resource/js/game_hall.js" timestamp="1509949587077">
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="57" column="26" />
-        <mark key="^" line="57" column="26" />
-        <mark key="." line="57" column="26" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/PlatformConfig.php" timestamp="1510130982382">
-        <mark key="[" line="76" column="20" />
-        <mark key="]" line="76" column="20" />
-        <mark key="." line="76" column="20" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_165955_add_game_id_to_agent_bonus_table.php" timestamp="1510119779765">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_10_26_162032_create_transaction_table.php" timestamp="1509006301479">
-        <mark key="[" line="24" column="42" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/live-game.blade.php" timestamp="1509694831936">
-        <mark key="[" line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CasinoGame.php" timestamp="1510198718466">
-        <mark key="[" line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/jryk.php" timestamp="1507868693229">
-        <mark key="[" line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_132406_insert_chicken_game.php" timestamp="1509948923707">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="8" />
-        <mark key="^" line="18" column="20" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/transfer-vertical.blade.php" timestamp="1509695104035">
-        <mark key="[" line="39" column="61" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/UserRepo.php" timestamp="1510130881657">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-        <mark key="^" line="26" column="6" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_bacc_chat.php" timestamp="1507799251977">
-        <mark key="[" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/MemberBonusRepoContract.php" timestamp="1510121646874">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
-        <mark key="^" line="10" column="43" />
-        <mark key="." line="10" column="40" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatBaccarat/docker/rtmp_nginx/test.sh" timestamp="1507015569118">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/web-service/tests/_support/Response/ProjectApi/LoadProjectResponse.php" timestamp="1494409819392">
-        <mark key="[" line="154" column="48" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1509688095591">
-        <mark key="[" line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratSmallRoad.php" timestamp="1507799284943">
-        <mark key="[" line="2" column="34" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/result/history.php" timestamp="1507867256290">
-        <mark key="[" line="206" column="42" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/transfer.blade.php" timestamp="1509695088803">
-        <mark key="[" line="41" column="61" />
-      </file>
-      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/storefront/news.php" timestamp="1497950010882">
-        <mark key="[" line="19" column="59" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/Transaction.php" timestamp="1510035081781">
-        <mark key="[" line="144" column="4" />
-        <mark key="]" line="144" column="4" />
-        <mark key="^" line="152" column="7" />
-        <mark key="." line="144" column="4" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_141505_insert_betradar_game.php" timestamp="1509949107655">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="2" />
-        <mark key="^" line="36" column="2" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/agent_liushui.php" timestamp="1507699095143">
-        <mark key="[" line="53" column="115" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/GameRepoContract.php" timestamp="1509954142185">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/ajax/jc_ajax.php" timestamp="1510127976521">
-        <mark key="[" line="347" column="35" />
-        <mark key="]" line="347" column="35" />
-        <mark key="." line="347" column="35" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWaterService.php" timestamp="1510215223322">
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="32" />
-        <mark key="^" line="60" column="32" />
-        <mark key="." line="60" column="32" />
-      </file>
-      <file name="/a.txt" timestamp="1496210413612">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/admin/set_peilv.php" timestamp="1507776051260">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BaseRepository.php" timestamp="1509613523286">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/PromotionLogRepoContract.php" timestamp="1510293742733">
-        <mark key="[" line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_150911_create_games_table.php" timestamp="1509952488530">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="18" column="47" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/PlatformConfigRepo.php" timestamp="1510198353369">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1507874822929">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/get_bacc.php" timestamp="1507864490450">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1509953958565">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BaseEloquent.php" timestamp="1510212699192">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Transaction.php" timestamp="1510214788393">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1509688244968">
-        <mark key="[" line="33" column="47" />
-        <mark key="]" line="33" column="47" />
-        <mark key="." line="33" column="47" />
-      </file>
-      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/announcement-labor.php" timestamp="1498223388068">
-        <mark key="[" line="6" column="47" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_agent.php" timestamp="1507799245647">
-        <mark key="[" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/bacc_robot_content.php" timestamp="1507278585198">
-        <mark key="[" line="73" column="26" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/LiveGameController.php" timestamp="1509680771383">
-        <mark key="[" line="68" column="5" />
-      </file>
-      <file name="/a.sql" timestamp="1509431261273">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/UserRepo.php" timestamp="1510128965980">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_08_134221_add_game_id_and_transaction_id_to_agent_bonus_table.php" timestamp="1510119754051">
-        <mark key="[" line="15" column="38" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/_ide_helper.php" timestamp="1510122677074">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/config/repository.php" timestamp="1509686857359">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/bacc/chat.php" timestamp="1507869382193">
-        <mark key="[" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tgzq/tgzq.php" timestamp="1507861500816">
-        <mark key="[" line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/AgentRepoContract.php" timestamp="1509613560939">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/bacc_chat_close.php" timestamp="1507799265536">
-        <mark key="[" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1509688916077">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/user_jymx_list.php" timestamp="1507861557574">
-        <mark key="[" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/robot_content_list.php" timestamp="1507278151064">
-        <mark key="[" line="42" column="46" />
-      </file>
-      <file name="/fragment.php" timestamp="1495182055275">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/bacc_set_odds.php" timestamp="1507775769844">
-        <mark key="[" line="80" column="26" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/composer.json" timestamp="1510216569389">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="15" />
-        <mark key="^" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/index.php" timestamp="1507867466267">
-        <mark key="[" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWater.php" timestamp="1509505360496">
-        <mark key="[" line="3" column="17" />
-      </file>
-      <file name="/Volumes/Storage-Chang/www/index.php" timestamp="1502296039080">
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratStrongRoad.php" timestamp="1507799289056">
-        <mark key="[" line="2" column="34" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/MemberBonus.php" timestamp="1510123490720">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TestController.php" timestamp="1510214705639">
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratBigRoad.php" timestamp="1507799271128">
-        <mark key="[" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/getuserinfo.php" timestamp="1507799595034">
-        <mark key="[" line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_choose_video.php" timestamp="1507799256617">
-        <mark key="[" line="3" column="29" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1509608729032">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/bet-history.blade.php" timestamp="1509695067947">
-        <mark key="[" line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/robot_ajax.php" timestamp="1507278264589">
-        <mark key="[" line="20" column="39" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1510128750411">
-        <mark key="[" line="60" column="30" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="30" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/bet-history-vertical.blade.php" timestamp="1509695076478">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="41" />
-        <mark key="." line="29" column="41" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/MemberBonusRepo.php" timestamp="1510125748495">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberBonu.php" timestamp="1510119653428">
-        <mark key="[" line="17" column="16" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/pay/pay-vertical.blade.php" timestamp="1509695136177">
-        <mark key="[" line="45" column="62" />
-      </file>
-      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/news-labor.php" timestamp="1498224198436">
-        <mark key="[" line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/AgentBonusRepo.php" timestamp="1509601562236">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/plugins/hide_posts.php" timestamp="1497950048620">
-        <mark key="[" line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tg_to_money_post.php" timestamp="1507861493425">
-        <mark key="[" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_114232_add_id_to_transactions_table.php" timestamp="1509940359359">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/AgentBonusContract.php" timestamp="1509609206112">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/chat.php" timestamp="1507869277688">
-        <mark key="[" line="65" column="49" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/TransactionRepoContract.php" timestamp="1509605303653">
-        <mark key="[" line="20" column="34" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/AgentBonusEloquent.php" timestamp="1510205550035">
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="25" column="13" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="25" column="13" />
-      </file>
-      <file name="$USER_HOME$/web-service/web-socket-server/vendor/voryx/thruway/Examples/Authentication/StartRouter.php" timestamp="1495187511326">
-        <mark key="[" line="15" column="63" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Game.php" timestamp="1510198830102">
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="22" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/MemberBonusRepo.php" timestamp="1510121764198">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="37" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="11" column="37" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/Game.php" timestamp="1509952179149">
-        <mark key="[" line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/Git/wuming/WeChatCasino/app/Service/LiveGame/BaccaratMessageService.php" timestamp="1513601440106">
-        <mark key="[" line="87" column="48" />
-        <mark key="]" line="87" column="47" />
-        <mark key="." line="87" column="47" />
-      </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/jc_ajax.php" timestamp="1507799698165">
         <mark key="[" line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/storefront/news.php" timestamp="1497950010882">
+        <mark key="[" line="19" column="59" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BaseRepository.php" timestamp="1509613523286">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+      </file>
+      <file name="/a.dummy" timestamp="1509954113619">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/GameRepo.php" timestamp="1509954450589">
         <mark key="[" line="11" column="15" />
@@ -396,26 +29,22 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/video/baccarat/ludan.php" timestamp="1507799866540">
-        <mark key="[" line="5" column="8" />
+      <file name="$USER_HOME$/wuming/RacingCar/admin/set_peilv.php" timestamp="1507776051260">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/web-service/web-socket-server/vendor/voryx/thruway/src/Thruway/Authentication/AuthenticationManager.php" timestamp="1495180790643">
-        <mark key="[" line="152" column="46" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/Game.php" timestamp="1509952179149">
+        <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatBaccarat/chat.php" timestamp="1507279082604">
-        <mark key="[" line="65" column="45" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/bet-history-vertial.blade.php" timestamp="1509681330048">
+        <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_08_134330_add_game_id_and_transaction_id_to_member_bonus_table.php" timestamp="1510120948981">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
+      <file name="/H2 Fragment (bacc_betlog_list.php:2328).sql" timestamp="1509431145585">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratResult.php" timestamp="1507799278443">
-        <mark key="[" line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/bacc_chat.php" timestamp="1507865948775">
-        <mark key="[" line="3" column="29" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/bet-history-vertical.blade.php" timestamp="1509695076478">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="41" />
+        <mark key="." line="29" column="41" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/LiveGame/BaccaratMessageService.php" timestamp="1510293285715">
         <mark key="[" line="20" column="41" />
@@ -423,25 +52,121 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberBonusEloquent.php" timestamp="1510127368242">
-        <mark key="[" line="104" column="27" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/robot_ajax.php" timestamp="1507278264589">
+        <mark key="[" line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/news-fire.php" timestamp="1498223418765">
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_141505_insert_betradar_game.php" timestamp="1509949107655">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="36" column="2" />
+        <mark key="." line="36" column="2" />
+        <mark key="^" line="36" column="2" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_08_134330_add_game_id_and_transaction_id_to_member_bonus_table.php" timestamp="1510120948981">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/agent_liushui.php" timestamp="1507699095143">
+        <mark key="[" line="53" column="115" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/bacc_chat_close.php" timestamp="1507799265536">
+        <mark key="[" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Game.php" timestamp="1510198830102">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/PlatformConfig.php" timestamp="1510130982382">
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="76" column="20" />
+        <mark key="." line="76" column="20" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/AgentRepo.php" timestamp="1509601045719">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/AgentBonus.php" timestamp="1509609189330">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/resource/js/game_hall.js" timestamp="1509949587077">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="57" column="26" />
+        <mark key="^" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/bacc/chat.php" timestamp="1507869382193">
+        <mark key="[" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/LiveGameController.php" timestamp="1509680771383">
+        <mark key="[" line="68" column="5" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1509953958565">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/UserRepo.php" timestamp="1510128965980">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Transaction.php" timestamp="1510214788393">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TestController.php" timestamp="1510214705639">
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/video/baccarat/ludan.php" timestamp="1507799866540">
+        <mark key="[" line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/HomeController.php" timestamp="1510285037090">
+        <mark key="[" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/plugins/hide_posts.php" timestamp="1497950048620">
+        <mark key="[" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/AgentRepoContract.php" timestamp="1509613560939">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/announcement-labor.php" timestamp="1498223388068">
         <mark key="[" line="6" column="47" />
       </file>
-      <file name="/PHP Console" timestamp="1509607571264">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/TransactionRepoContract.php" timestamp="1509605303653">
+        <mark key="[" line="20" column="34" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_114232_add_id_to_transactions_table.php" timestamp="1509940359359">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/get_bacc.php" timestamp="1507864490450">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="/a.txt" timestamp="1496210413612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/TransactionRepo.php" timestamp="1509605975831">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="42" />
-        <mark key="^" line="17" column="41" />
-        <mark key="." line="17" column="42" />
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratStrongRoad.php" timestamp="1507799289056">
+        <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/web-service/web-socket-server/vendor/voryx/thruway/src/Thruway/Authentication/AbstractAuthProviderClient.php" timestamp="1495508515662">
-        <mark key="[" line="61" column="5" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/transfer.blade.php" timestamp="1509695088803">
+        <mark key="[" line="41" column="61" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratResult.php" timestamp="1507799278443">
+        <mark key="[" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/GameEloquent.php" timestamp="1510198839219">
         <mark key="[" line="64" column="5" />
@@ -449,30 +174,109 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="71" column="43" />
       </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/jc_ajax_close.php" timestamp="1507799714428">
-        <mark key="[" line="3" column="8" />
-      </file>
-      <file name="/dummy.sql" timestamp="1509431536771">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/course-fire.php" timestamp="1506433661585">
-        <mark key="[" line="3" column="44" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510212650704">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/bet-history-vertial.blade.php" timestamp="1509681330048">
-        <mark key="[" line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/game-hall.blade.php" timestamp="1509695167613">
-        <mark key="[" line="68" column="35" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/AgentBonusRepo.php" timestamp="1510035933671">
         <mark key="[" line="30" column="54" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1507874822929">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/AgentBonusEloquent.php" timestamp="1510205550035">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_150911_create_games_table.php" timestamp="1509952488530">
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="47" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_10_26_162032_create_transaction_table.php" timestamp="1509006301479">
+        <mark key="[" line="24" column="42" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BaseEloquent.php" timestamp="1510212699192">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tg_to_money_post.php" timestamp="1507861493425">
+        <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/Transaction.php" timestamp="1510035081781">
+        <mark key="[" line="144" column="4" />
+        <mark key="]" line="144" column="4" />
+        <mark key="^" line="152" column="7" />
+        <mark key="." line="144" column="4" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWater.php" timestamp="1509505360496">
+        <mark key="[" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Git/wuming/WeChatCasino/app/Service/LiveGame/BaccaratMessageService.php" timestamp="1513601440106">
+        <mark key="[" line="87" column="48" />
+        <mark key="]" line="87" column="47" />
+        <mark key="." line="87" column="47" />
+      </file>
+      <file name="/a.sql" timestamp="1509431261273">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_07_135321_add_transaction_id_to_agent_bonus_table.php" timestamp="1510034239086">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/news-fire.php" timestamp="1498223418765">
+        <mark key="[" line="6" column="47" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1510128750411">
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="60" column="30" />
+        <mark key="." line="60" column="30" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/bacc_robot_content.php" timestamp="1507278585198">
+        <mark key="[" line="73" column="26" />
+      </file>
+      <file name="/fragment.php" timestamp="1495182055275">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CasinoGame.php" timestamp="1510198718466">
+        <mark key="[" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/robot_content_list.php" timestamp="1507278151064">
+        <mark key="[" line="42" column="46" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/TransactionRepo.php" timestamp="1509604693544">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberBonu.php" timestamp="1510119653428">
+        <mark key="[" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/live-game.blade.php" timestamp="1509694831936">
+        <mark key="[" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/GameRepoContract.php" timestamp="1509954142185">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+      </file>
+      <file name="/Volumes/Storage-Chang/www/index.php" timestamp="1502296039080">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/web-service/tests/_support/Response/ProjectApi/LoadProjectResponse.php" timestamp="1494409819392">
+        <mark key="[" line="154" column="48" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tgzq/tgzq.php" timestamp="1507861500816">
+        <mark key="[" line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatBaccarat/chat.php" timestamp="1507279082604">
+        <mark key="[" line="65" column="45" />
       </file>
       <file name="$USER_HOME$/wuming/ffmpeg-for-live/docker-compose.yml" timestamp="1509599981363">
         <mark key="[" line="11" column="19" />
@@ -480,34 +284,78 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/pay/pay.blade.php" timestamp="1509695118985">
-        <mark key="[" line="42" column="30" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberBonusEloquent.php" timestamp="1510127368242">
+        <mark key="[" line="104" column="27" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1506433698062">
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/vertical-video.blade.php" timestamp="1509681070528">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatBaccarat/docker/rtmp_nginx/test.sh" timestamp="1507015569118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/AgentBonus.php" timestamp="1509609189330">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/RacingCar/game.php" timestamp="1510038962474">
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="115" column="41" />
+        <mark key="." line="115" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/news-labor.php" timestamp="1498224198436">
+        <mark key="[" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/PromotionLogRepoContract.php" timestamp="1510293742733">
+        <mark key="[" line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/web-service/web-socket-server/vendor/voryx/thruway/src/Thruway/Authentication/AbstractAuthProviderClient.php" timestamp="1495508515662">
+        <mark key="[" line="61" column="5" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/MemberBonusRepo.php" timestamp="1510121764198">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_165955_add_game_id_to_agent_bonus_table.php" timestamp="1510119779765">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/transfer-vertical.blade.php" timestamp="1509695104035">
+        <mark key="[" line="39" column="61" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/web-service/web-socket-server/vendor/voryx/thruway/src/Thruway/Authentication/AuthenticationManager.php" timestamp="1495180790643">
+        <mark key="[" line="152" column="46" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/GameEloquent.php" timestamp="1509953660317">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/send_bacc_eventmsg.php" timestamp="1507799873633">
-        <mark key="[" line="2" column="7" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_06_132406_insert_chicken_game.php" timestamp="1509948923707">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+        <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/AgentRepo.php" timestamp="1509601045719">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/composer.json" timestamp="1510216569389">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+        <mark key="." line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/TransactionRepo.php" timestamp="1509604693544">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_agent.php" timestamp="1507799245647">
+        <mark key="[" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/_ide_helper.php" timestamp="1510122677074">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/ide-helper.php" timestamp="1509940106720">
         <mark key="[" line="25" column="24" />
@@ -515,16 +363,169 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/RacingCar/game.php" timestamp="1510038962474">
-        <mark key="[" line="61" column="12" />
-        <mark key="]" line="115" column="41" />
-        <mark key="." line="115" column="41" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/RepoServiceProvider.php" timestamp="1510121583205">
+        <mark key="[" line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/vertical-video.blade.php" timestamp="1509681070528">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_08_134221_add_game_id_and_transaction_id_to_agent_bonus_table.php" timestamp="1510119754051">
+        <mark key="[" line="15" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/content-page.php" timestamp="1497958334800">
+        <mark key="[" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/bacc_set_odds.php" timestamp="1507775769844">
+        <mark key="[" line="80" column="26" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/MemberBonusRepoContract.php" timestamp="1510121646874">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="40" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/TransactionRepo.php" timestamp="1509605975831">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="41" />
+        <mark key="." line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratSmallRoad.php" timestamp="1507799284943">
+        <mark key="[" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/jryk.php" timestamp="1507868693229">
+        <mark key="[" line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/MemberBonusRepo.php" timestamp="1510125748495">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/getuserinfo.php" timestamp="1507799595034">
+        <mark key="[" line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/web-service/web-socket-server/vendor/voryx/thruway/Examples/Authentication/StartRouter.php" timestamp="1495187511326">
+        <mark key="[" line="15" column="63" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/send_bacc_eventmsg.php" timestamp="1507799873633">
+        <mark key="[" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/jc_ajax_close.php" timestamp="1507799714428">
+        <mark key="[" line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/MemberBonus.php" timestamp="1510123490720">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/ajax/jc_ajax.php" timestamp="1510127976521">
+        <mark key="[" line="347" column="35" />
+        <mark key="]" line="347" column="35" />
+        <mark key="." line="347" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/course-fire.php" timestamp="1506433661585">
+        <mark key="[" line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/result/history.php" timestamp="1507867256290">
+        <mark key="[" line="206" column="42" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/pay/pay-vertical.blade.php" timestamp="1509695136177">
+        <mark key="[" line="45" column="62" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1509688095591">
+        <mark key="[" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/index.php" timestamp="1507867466267">
+        <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/pay/pay.blade.php" timestamp="1509695118985">
+        <mark key="[" line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/UserRepo.php" timestamp="1510130881657">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+        <mark key="^" line="26" column="6" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/TestRepository.php" timestamp="1509613419334">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1509688244968">
+        <mark key="[" line="33" column="47" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/game-hall.blade.php" timestamp="1509695167613">
+        <mark key="[" line="68" column="35" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/bet-history.blade.php" timestamp="1509695067947">
+        <mark key="[" line="18" column="28" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/config/repository.php" timestamp="1509686857359">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/bacc_chat.php" timestamp="1507865948775">
+        <mark key="[" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratBigRoad.php" timestamp="1507799271128">
+        <mark key="[" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_choose_video.php" timestamp="1507799256617">
+        <mark key="[" line="3" column="29" />
+      </file>
+      <file name="/PHP Console" timestamp="1509607571264">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1509688916077">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/wuming/WeChatCasino/routes/web.php" timestamp="1552542232635" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWaterService.php" timestamp="1510215223322">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+      </file>
+      <file name="/dummy.sql" timestamp="1509431536771">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510212650704">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/AgentBonusContract.php" timestamp="1509609206112">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_bacc_chat.php" timestamp="1507799251977">
+        <mark key="[" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/AgentBonusRepo.php" timestamp="1509601562236">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1506433698062">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/chat.php" timestamp="1507869277688">
+        <mark key="[" line="65" column="49" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/PlatformConfigRepo.php" timestamp="1510198353369">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/user_jymx_list.php" timestamp="1507861557574">
+        <mark key="[" line="2" column="8" />
       </file>
     </filemarks>
     <jumps>
