@@ -224,7 +224,6 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tg_to_money_post.php" timestamp="1507861493425">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1552546555315" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/Transaction.php" timestamp="1510035081781">
         <mark key="[" line="144" column="4" />
         <mark key="]" line="144" column="4" />
@@ -299,9 +298,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Git/wuming/WeChatCasino/resources/assets/js/game-hall.js" timestamp="1552558711372">
         <mark key="[" line="362" column="21" />
-        <mark key="]" line="368" column="46" />
-        <mark key="^" line="368" column="46" />
-        <mark key="." line="368" column="46" />
       </file>
       <file name="$USER_HOME$/web-service/tests/_support/Response/ProjectApi/LoadProjectResponse.php" timestamp="1494409819392">
         <mark key="[" line="154" column="48" />
@@ -430,12 +426,6 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratSmallRoad.php" timestamp="1507799284943">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/wuming/WeChatCasino/webpack.mix.js" timestamp="1552560340026">
-        <mark key="[" line="87" column="62" />
-        <mark key="]" line="87" column="63" />
-        <mark key="^" line="87" column="63" />
-        <mark key="." line="87" column="63" />
-      </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/jryk.php" timestamp="1507868693229">
         <mark key="[" line="1" column="15" />
       </file>
@@ -450,7 +440,6 @@
       <file name="$USER_HOME$/web-service/web-socket-server/vendor/voryx/thruway/Examples/Authentication/StartRouter.php" timestamp="1495187511326">
         <mark key="[" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/wuming/WeChatCasino/app/API/Contracts/ChannelManagerApiContract.php" timestamp="1552545488242" />
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/send_bacc_eventmsg.php" timestamp="1507799873633">
         <mark key="[" line="2" column="7" />
       </file>
@@ -536,12 +525,6 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/wuming/WeChatCasino/routes/web.php" timestamp="1552560039339">
-        <mark key="[" line="88" column="23" />
-        <mark key="]" line="88" column="55" />
-        <mark key="^" line="88" column="55" />
-        <mark key="." line="88" column="55" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWaterService.php" timestamp="1510215223322">
         <mark key="[" line="60" column="31" />
         <mark key="]" line="60" column="32" />
@@ -577,12 +560,6 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/chat.php" timestamp="1507869277688">
         <mark key="[" line="65" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1552560231207">
-        <mark key="[" line="588" column="26" />
-        <mark key="]" line="588" column="33" />
-        <mark key="." line="588" column="33" />
-        <mark key="^" line="588" column="33" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/PlatformConfigRepo.php" timestamp="1510198353369">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -591,7 +568,6 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/user_jymx_list.php" timestamp="1507861557574">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/wuming/WeChatCasino/resources/views/slot/slot-table.blade.php" timestamp="1552558618474" />
     </filemarks>
     <jumps>
       <jump line="51" column="4" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAssetAdapter.php" />
