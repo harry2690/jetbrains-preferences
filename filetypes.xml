@@ -6,6 +6,7 @@
       <mapping pattern=".env-dev" type="PLAIN_TEXT" />
       <mapping pattern=".env-stage-slave" type="PLAIN_TEXT" />
       <mapping pattern=".env-stage" type="PLAIN_TEXT" />
+      <mapping ext="ctp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
