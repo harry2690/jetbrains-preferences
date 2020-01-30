@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="CheckBanHelper" type="PHP" />
-      <mapping ext="ctp" type="PHP" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
       <mapping pattern=".env-dev" type="PLAIN_TEXT" />
       <mapping pattern=".env-stage-slave" type="PLAIN_TEXT" />
