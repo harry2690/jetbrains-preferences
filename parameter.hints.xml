@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Illuminate\Contracts\Container\Container.bind(abstract,concrete,shared)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
