@@ -8,6 +8,7 @@
       <mapping pattern=".env-stage-slave" type="PLAIN_TEXT" />
       <mapping pattern=".env-stage" type="PLAIN_TEXT" />
       <mapping pattern="5b97e98675c7" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
