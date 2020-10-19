@@ -11,6 +11,7 @@
       <mapping pattern="202006111356_10832_add_cvms_performance_report" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
