@@ -1,9 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="CheckBanHelper" type="PHP" />
-      <mapping pattern=".env-stage-slave" type="PLAIN_TEXT" />
       <mapping pattern="5b97e98675c7" type="PLAIN_TEXT" />
+      <mapping pattern=".env-stage-slave" type="PLAIN_TEXT" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
       <mapping pattern=".env-dev" type="PLAIN_TEXT" />
       <mapping pattern=".env-stage" type="PLAIN_TEXT" />
